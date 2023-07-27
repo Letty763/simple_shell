@@ -1,0 +1,1 @@
+This is a simple shell project implemented in C programming language. The purpose of this project is to create a basic command-line shell, which allows users to execute various commands and provides some basic functionalities similar to a typical Unix shell.
